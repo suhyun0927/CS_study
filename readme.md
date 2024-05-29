@@ -7,7 +7,7 @@
 ||[0. 강의 개요](https://github.com/suhyun0927/CS_study/blob/main/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99/readme.md)||
 |240527|[1. 명제](https://github.com/suhyun0927/CS_study/blob/main/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99/1.%EB%AA%85%EC%A0%9C.md)||
 |240528|[2. 부울대수](https://github.com/suhyun0927/CS_study/blob/main/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99/2.%EB%B6%80%EC%9A%B8%EB%8C%80%EC%88%98.md)||
-|240529|[3. 그래프]()||
+|240529|[3. 그래프](https://github.com/suhyun0927/CS_study/blob/main/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99/3.%EA%B7%B8%EB%9E%98%ED%94%84.md)||
 ||형식언어와 오토마타, 셈||
 ||관계, 부분순서||
 
